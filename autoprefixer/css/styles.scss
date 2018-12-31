@@ -1,0 +1,22 @@
+.container {
+  // @include flexbox(flex);
+  // @include flex-direction(column);
+  // @include align-content(center);
+  // @include justify-content(center);
+  display:flex;
+  flex-direction:column;
+  align-content:center;
+  justify-content:center;
+}
+
+.box1 {
+  flex:10 5 450px;
+}
+
+.box2 {
+  flex:1 1 360px;
+}
+
+.box3 {
+    flex: 5 2 200px; 
+}

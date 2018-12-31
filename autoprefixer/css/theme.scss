@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*============================================================================
+[TEST] | Built with Gulp
+- You cannot use native CSS/Sass @imports in this file without a build script
+==============================================================================*/
+
+/*=========== VARIABLES + CORE =============*/
+@import url('variables.scss');
+@import url('global.scss');
+
+
+/*================ Sections ================*/
+// please refer to global for any notes re:styling
+@import url('styles.scss');

@@ -1,0 +1,32 @@
+{
+  "name": "what_the_flexbox",
+  "version": "1.0.0",
+  "description": "Wes Box What the Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremybwilson/what_the_flexbox.git"
+  },
+  "author": "Jeremy Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremybwilson/what_the_flexbox/issues"
+  },
+  "homepage": "https://github.com/jeremybwilson/what_the_flexbox#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
